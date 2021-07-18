@@ -7,7 +7,6 @@
 - 💬 Ask me about **Java, Spring Boot, Angular**
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ... -->
-- 🔭 I’m currently working on Building a personal Voip Server.
 - 🌱 I’m currently learning **Python**
 - 📫 Reach me @ ismail.mohmmd@pm.me  
 
