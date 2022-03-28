@@ -4,7 +4,7 @@
 
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about **Java, Spring Boot, Angular**
+- 💬 Ask me about **Java, Spring Boot, Angular, Typescript, NodeJS**
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ... -->
 - 🌱 I’m currently learning **Python**
