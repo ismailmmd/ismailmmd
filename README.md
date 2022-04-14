@@ -7,7 +7,7 @@
 - 💬 Ask me about **Java, Spring Boot, Angular, Typescript, NodeJS**
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ... -->
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Go**
 - 📫 Reach me @ ism5701@gmail.com
 <!-- ismail.mohmmd@pm.me   -->
 
