@@ -8,7 +8,6 @@
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ... -->
 - 🌱 I’m currently learning **Go**
-- 📫 Reach me @ ism5701@gmail.com
-<!-- ismail.mohmmd@pm.me   -->
+- 📫 Reach me @ ismail.mhmmd@proton.me
 
 <a href="https://stackoverflow.com/users/7962589/ismail"><img src="https://stackoverflow.com/users/flair/7962589.png?theme=dark" width="208" height="58" alt="profile for Ismail at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ismail at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
