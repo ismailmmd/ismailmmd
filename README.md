@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ismail
 
-#### I am tech enthusiast and a Full Stack Developer specialized in Java and Angular Stack
+#### I am a tech enthusiast and a Full Stack Developer specialized in Java and Javascript
 
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
