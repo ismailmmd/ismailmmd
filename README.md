@@ -60,3 +60,7 @@
 
 ## 🌠 Stats :
 <a href="https://stackoverflow.com/users/7962589/ismail"><img src="https://stackoverflow.com/users/flair/7962589.png?theme=dark" width="208" height="58" alt="profile for Ismail at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ismail at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ismailmmd&theme=dark&border_radius=5&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+
+<!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ismailmmd&show_icons=true" /> -->
