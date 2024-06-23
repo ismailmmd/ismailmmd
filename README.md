@@ -48,5 +48,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## ❤️ Connect with me :
+<p>
+  <a href="https://www.linkedin.com/in/ismail-mohmmd/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
+  </a>
+  <a href="mailto: ismail.mhmmd@proton.me" target="_blank">
+    <img alt="Mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"  height="30px"/>
+  </a>
+</p>
 
+## 🌠 Stats :
 <a href="https://stackoverflow.com/users/7962589/ismail"><img src="https://stackoverflow.com/users/flair/7962589.png?theme=dark" width="208" height="58" alt="profile for Ismail at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ismail at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
