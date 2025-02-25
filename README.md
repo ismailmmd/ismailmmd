@@ -7,7 +7,7 @@
 - 💬 Ask me about **Java, Spring Boot, Typescript, NodeJS**
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ... -->
-- 🌱 I’m currently learning **Go ooo**
+- 🌱 I’m currently learning **Go**
 - 📫 Reach me @ ismail.mhmmd@proton.me
 
 <!-- badges referenced from https://github.com/Ileriayo/markdown-badges -->
