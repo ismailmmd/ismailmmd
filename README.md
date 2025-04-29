@@ -50,6 +50,9 @@
 
 ## ❤️ Connect with me :
 <p>
+<a href="https://www.ismailm.xyz/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/ismailm.xyz-20B2AA?style=for-the-badge"  height="30px"/>
+  </a>
   <a href="https://www.linkedin.com/in/ismail-mohmmd/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a>
@@ -59,8 +62,14 @@
 </p>
 
 ## 🌠 Stats :
-<a href="https://stackoverflow.com/users/7962589/ismail"><img src="https://stackoverflow.com/users/flair/7962589.png?theme=dark" width="208" height="58" alt="profile for Ismail at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ismail at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ismailmmd&theme=dark&border_radius=5&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-
-<!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ismailmmd&show_icons=true" /> -->
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <div style="flex: 1; min-width: 300px; max-width: 48%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ismailmmd&theme=dark&border_radius=5&exclude_days=Sun%2CSat" alt="GitHub Streak" width="100%">
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 48%;">
+    <a href="https://stackoverflow.com/users/7962589/ismail">
+      <img src="https://stackoverflow-card.vercel.app/?userID=7962589&theme=gruvbox-dark" alt="Ismail at Stack Overflow" width="100%">
+    </a>
+  </div>
+</div>
