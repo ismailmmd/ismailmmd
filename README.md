@@ -63,7 +63,7 @@
 
 ## 🌠 Stats :
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div style="display: flex; flex-direction: row; gap: 15px; justify-content: center;">
   <div style="flex: 1; min-width: 300px; max-width: 48%;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ismailmmd&theme=dark&border_radius=5&exclude_days=Sun%2CSat" alt="GitHub Streak" width="100%">
   </div>
