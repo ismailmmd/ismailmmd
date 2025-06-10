@@ -63,13 +63,15 @@
 
 ## 🌠 Stats :
 
-<div style="display: flex; flex-direction: row; gap: 15px; justify-content: center;">
-  <div style="flex: 1; min-width: 100px; max-width: 25%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ismailmmd&theme=dark&border_radius=5&exclude_days=Sun%2CSat" alt="GitHub Streak" width="30%">
-  </div>
-  <div style="flex: 1; min-width: 200px; max-width: 25%;">
-    <a href="https://stackoverflow.com/users/7962589/ismail">
-      <img src="https://stackoverflow-card.vercel.app/?userID=7962589&theme=gruvbox-dark" alt="Ismail at Stack Overflow" width="30%">
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ismailmmd&theme=dark&border_radius=5&exclude_days=Sun%2CSat" alt="GitHub Streak" width="100%">
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/7962589/ismail">
+        <img src="https://stackoverflow-card.vercel.app/?userID=7962589&theme=gruvbox-dark" alt="Ismail at Stack Overflow" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
