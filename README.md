@@ -1,13 +1,13 @@
 ## Hi there 👋, I am Ismail 😃
 
-### I am a tech enthusiast and a Full Stack Developer specialized in Java and Javascript
+### I am a tech enthusiast and a full-stack engineer specializing in Java and Typescript
 
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **Java, Spring Boot, Typescript, NodeJS**
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ... -->
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning [**LangGraph**](https://www.langchain.com/langgraph)
 - 📫 Reach me @ ismail.mhmmd@proton.me
 
 <!-- badges referenced from https://github.com/Ileriayo/markdown-badges -->
@@ -33,7 +33,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 </br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 </br>
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
